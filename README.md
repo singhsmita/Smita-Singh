@@ -1,7 +1,7 @@
 # Smita-Singh
 Hi there , I am Smita Singh !!
 
-Pursuing Data Analytics and Visualisation Associate degree at UNC,Chapel Hill.
+Studying Data Analytics and Visualisation Associate degree at UNC,Chapel Hill.
  
 ## Below is an outline of my work and failures ...
 ### DATA ANALYSIS & VISUALIZATION
